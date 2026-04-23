@@ -19,4 +19,4 @@ So, the recommendation would be:
 - "Welcome" Pantry Bundling: Offer an opt-in bundle for pre-stocked pantry essentials (local snacks, water, coffee) so guests can immediately settle in without an immediate grocery run.
 
 Please find the analytics' breakdown here:
-[ppt]([https://docs.google.com/spreadsheets/d/1bQr0TzSRjWtD6pwHhXcWmrfdfdhrdPOb4k1m87Pa0-I/edit?usp=sharing](https://canva.link/rpduh8t9thi5udu))
+[ppt](https://www.canva.com/design/DAHHpo3n1ek/_3bbm3yYkV0K9xYLUe1GAg/edit)
