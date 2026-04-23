@@ -20,3 +20,4 @@ So, the recommendation would be:
 
 Please find the analytics' breakdown here:
 [ppt](https://www.canva.com/design/DAHHpo3n1ek/_3bbm3yYkV0K9xYLUe1GAg/edit)
+[dashboard](https://public.tableau.com/app/profile/rafiedrmwn/viz/AirbnbBangkokDashboard_17769361320560/Dashboard1?publish=yes)
