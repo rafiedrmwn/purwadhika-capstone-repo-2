@@ -18,3 +18,5 @@ So, the recommendation would be:
 - Seamless Airport Transfers: Introduce an add-on feature for direct airport pickups to guarantee a smooth, immediate transition from the terminal to the listing.
 - "Welcome" Pantry Bundling: Offer an opt-in bundle for pre-stocked pantry essentials (local snacks, water, coffee) so guests can immediately settle in without an immediate grocery run.
 
+Please find the analytics' breakdown here:
+[ppt]([https://docs.google.com/spreadsheets/d/1bQr0TzSRjWtD6pwHhXcWmrfdfdhrdPOb4k1m87Pa0-I/edit?usp=sharing](https://canva.link/rpduh8t9thi5udu))
