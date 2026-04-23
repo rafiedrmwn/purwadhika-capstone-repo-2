@@ -1,2 +1,4 @@
-# purwadhika-capstone-repo-2
-The repositories for Capstone Project Module 2
+# Purwadhika Capstone Project Module 2
+## Explanatory Data Analysis for Airbnb Bangkok Dataset
+
+
